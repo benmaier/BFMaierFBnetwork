@@ -1,9 +1,7 @@
 B.F. Maier's FB friends network
 -------------------------------
 
-This is the data of Benjamin F. Maier's anonymized Facebook friend network, collected in fall 2014. The node B.F. Maier, who is connected to every other node, has been removed.
-
-Nodes represent Facebook profiles, edges represent Facebook friendships between the profiles.
+This is the data of my anonymized Facebook friend network, collected in fall 2014. Nodes represent Facebook profiles, edges represent Facebook friendships between the profiles. The node that represents my Facebook profile, which is connected to every other node, has been removed.
 
 Some data
 ```
