@@ -1,11 +1,12 @@
 B.F. Maier's FB friends network
 -------------------------------
 
-This is the data of my anonymized Facebook friend network, collected in fall 2014. The node B.F. Maier, who is connected to every other node, has been removed.
+This is the data of my anonymized Facebook friend network, collected in fall 2014. 
+Nodes represent Facebook profiles, edges represent Facebook friendships between the profiles. 
+The node that represents my Facebook profile, 
+which is connected to every other node, has been removed.
 
-Nodes represent Facebook profiles, edges represent Facebook friendships between the profiles.
-
-In the `graphml`-file, nodes have additional context descriptors to categorize from which context I know the person.
+In the `graphml`-file, nodes have additional context descriptors to categorize the relationship between me and the person.
 
 Some data
 ```
