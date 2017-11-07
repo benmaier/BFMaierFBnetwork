@@ -18,3 +18,8 @@ Some data
     N_nodes_largest_component = 329
 ```
 
+Please cite as
+
+```
+B. F. Maier and D. Brockmann, "Cover time for random walks on arbitrary complex networks." Phys. Rev. E 96, 042307 (2017)
+```
